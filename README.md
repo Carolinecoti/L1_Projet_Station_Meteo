@@ -27,4 +27,9 @@ Pour cela il a fallu créer un compte sur The Thing Network. Dans le programme n
 C’est ainsi qu’on a pu visionner les données enregistrées par les capteurs installer sur la carte Arduino via Cayenne.
 
 Pour la réalisation de la boite nous avons utilisé de la mousse de calage qui se trouvait au fabLab. Nous l’avons découpé de telle façon à ce que cela fasse une boite. La mousse de calage est une matière intéressante puisqu’elle laisse passer la luminosité, la température est bien capté et si des intempéries ont lieu la mousse permet de ne pas laisser passer l’eau (pluie de faible intensité seulement..).
+Pour l’alimentation de la carte nous avons choisi d’utiliser une batterie externe.
 
+
+Pour conclure ce projet, nous n’avons pas pu réaliser ce que nous souhaitions faire au départ. Nous avons su nous adaptez avec les seuls composants mis à disposition. 
+Nous aurions souhaité faire plus mais nous sommes tout de même contents d’avoir un projet qui fonctionne.
+Ce projet a été pour nous une belle découverte et nous aura permit de découvrir le LoRa, qui est un protocole de télécommunication intéressant.
