@@ -20,7 +20,7 @@ Nous avons donc soudé le capteur de température, le capteur d’humidité et l
 Après avoir finit la soudure nous nous sommes occupés de la programmation.
 Pour la programmation nous avons reprit le programme utilisé dans l’un des TP du cours. 
 
-Le programme est le suivant :
+Le programme est dans le dossier et se nomme "programme_projet.ino".
 
 
 Pour l’affichage des données enregistrées par les capteurs on a choisi Cayenne.
