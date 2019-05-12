@@ -9,3 +9,5 @@ La séance du 19 avril nous avons soudé les capteurs que nous possédions sur l
 La semaine du 22 avril nous nous sommes occupés de la programmation, ainsi que de Cayenne.
 
 La semaine du 29 avril nous avons réfléchi à la manière de conceptualiser la boite dans laquelle placer notre carte arduino et nous avons effectués les derniers tests  afin d'être sure que tout fonctionne correctement pour la présentation finale 
+
+Tout au long de notre projet, avec Kalil, nous nous sommes répartis les tâches de telle façon à ce que personne ne reste sans rien faire.
