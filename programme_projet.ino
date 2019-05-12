@@ -16,7 +16,6 @@ void setup() {
 
 void loop() {
 
-    // temperature is an integer in hundredths
     int temperature = sensor.getCelsiusHundredths();
     temperature = temperature / 100;
     Serial.print("Temperature :");  
@@ -25,7 +24,7 @@ void loop() {
     
     delay(1000);
     
-    // humidity is an integer representing percent
+    
     int humidity = sensor.getHumidityPercent();
     Serial.print("Humidity :");  
     Serial.print(humidity);
@@ -34,7 +33,7 @@ void loop() {
     
     delay(1000);
 
-    // temperature is an integer in hundredths
+    
     light = readLight();
     
     Serial.print("Light :");  
@@ -46,14 +45,14 @@ void loop() {
 
 float readLight() {
   float result;
-  // Light sensor Voltage
-digitalWrite(LPPIN, HIGH); // Power the sensor
+  
+digitalWrite(LPPIN, HIGH);
 delay(10);
 int sensorValue = analogRead(LAPIN);
-  // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 3.3V):
-  float voltage = sensorValue * (3.3 / 1023.0); // Batvalue is 3.3V
-result = voltage*2000; // multiply by 2000 to have Lx
-digitalWrite(LPPIN, LOW); // switch off the sensor
+  
+  float voltage = sensorValue * (3.3 / 1023.0);
+result = voltage*2000;
+digitalWrite(LPPIN, LOW);
   return result;
 
 }
