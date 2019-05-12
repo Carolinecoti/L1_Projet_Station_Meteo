@@ -19,6 +19,7 @@ Après avoir reçus une partie des composants demandés, nous avons commencé la
 Nous avons donc soudé le capteur de température, le capteur d’humidité et le capteur de luminosité sur la carte Arduino. N’ayant reçus le reste de la liste des composants nous avons su adaptés notre projet.
 Après avoir finit la soudure nous nous sommes occupés de la programmation.
 Pour la programmation nous avons reprit le programme utilisé dans l’un des TP du cours. 
+
 Le programme est le suivant :
 
 
